@@ -1,0 +1,13 @@
+Arquivo de sentenças utilizadas para treinamento do modelo
+
+/*Sentença 1*/
+-"Wow, acabei de mergulhar nesse jogo e estou completamente arrebatado! A sensação de imersão é tão profunda que perdi a noção do tempo. Os gráficos são de tirar o fôlego, cada detalhe é meticulosamente elaborado. A trilha sonora? Simplesmente épica, te transporta para outro mundo. A narrativa é cativante, cheia de reviravoltas que me deixaram sem fôlego. E os personagens? São tão bem desenvolvidos que me senti conectado a cada um deles. Mal posso esperar para continuar essa jornada e descobrir todos os segredos que este jogo incrível tem a oferecer!"
+
+/*Sentença 2*/
+-"Pô, galera, tô chapado com esse jogo, sério! É tipo uma viagem sem volta, saca? Os gráficos são sinistros, a trilha sonora é da hora e a história é mais enroscada que novelão da Globo! Tô ligado que vou virar zumbi nesse game, porque não consigo largar! É brisa boa demais, irmão!"
+
+/*Sentença 3*/
+-"Brother, confesso que tava na hype desse jogo, mas quando comecei a jogar, foi uma decepção total, mano. Os gráficos são até maneirinhos, mas a jogabilidade é mais travada que congestionamento na Marginal. Não sei, só não rolou aquela química, saca?"
+
+/*Sentença 4*/
+-"Ô, rapaziada, esse jogo é um verdadeiro achado, pô! Os gráficos são dahora, a trilha sonora é maneira e a jogabilidade é mais fluida que samba no pé. Tô completamente viciado, mal posso esperar pra desbravar mais desse universo alucinante!"
