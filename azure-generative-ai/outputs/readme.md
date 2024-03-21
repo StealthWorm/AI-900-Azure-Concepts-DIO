@@ -10,7 +10,7 @@
 
 > *O texto no portão diz “華埠”, que significa Chinatown em chinês. Este local é uma Chinatown, caracterizada pelo tradicional portão de arquitetura chinesa e várias placas em chinês. A imagem mostra uma rua movimentada em Chinatown à noite, iluminada por várias luzes. O portão é ornamentado com designs intrincados e cores vibrantes. Os edifícios ao lado da rua têm placas em inglês e chinês, indicando negócios como mercados e restaurantes. Carros estão visíveis na rua, alguns em movimento e outros estacionados. Pedestres caminham pelas calçadas. O céu está escuro, indicando que é noite. Este local é uma parte vibrante e culturalmente rica da cidade! 🏮🌃*
 
-2. Para o segundo teste, peguei uma imagem aleatória de um outdoor russo, com muitos elementos que poderiam causar desfoque e confusão para a IA, e pedi para que a mesma traduzisse o conteúdo da placa. O resultado foi o seguinte:
+1. Para o segundo teste, peguei uma imagem aleatória de um outdoor russo, com muitos elementos que poderiam causar desfoque e confusão para a IA, e pedi para que a mesma traduzisse o conteúdo da placa. O resultado foi o seguinte:
    ![Random Russian Outdoor](russia.png)
 
 > *O texto na imagem diz:
